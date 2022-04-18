@@ -1,6 +1,3 @@
-//
-// Created by shubham on 26.05.21.
-//
 #include <chrono>
 #include <cassert>
 #include <mpi.h>
