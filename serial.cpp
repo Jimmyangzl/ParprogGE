@@ -1,7 +1,3 @@
-//
-// Created by shubham on 14.05.21.
-//
-
 #include <cassert>
 #include <iostream>
 #include <chrono>
